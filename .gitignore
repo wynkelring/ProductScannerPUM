@@ -1,0 +1,9 @@
+Scanner/*.iml
+Scanner/.gradle
+Scanner/local.properties
+Scanner/.idea
+Scanner/.DS_Store
+Scanner/build
+Scanner/captures
+Scanner/.externalNativeBuild
+Scanner/.cxx
